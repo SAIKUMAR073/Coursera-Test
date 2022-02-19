@@ -80,6 +80,7 @@ body {
   font-size: 1.5em;
   color: black;
   font-weight: 700;
+  overflow: hidden;
 }
 
 #content p {
